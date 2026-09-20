@@ -3,29 +3,29 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=D8774D&center=true&vCenter=true&width=650&lines=Product+Engineer;Full+Stack+JavaScript+Developer;Building+Software+That+Solves+Real+Problems;Caminhos+de+Mambucaba+%E2%80%94+Em+Produ%C3%A7%C3%A3o;Building+in+Public"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=D8774D&center=true&vCenter=true&width=650&lines=Product+Engineer;Full+Stack+Developer;Building+Software+That+Solves+Real+Problems;Caminhos+de+Mambucaba+%E2%80%94+Em+Produ%C3%A7%C3%A3o;Building+in+Public"/>
 </p>
 
 <p align="center">
-  <a href="https://luis-botelho.tech">
-    <img src="https://img.shields.io/badge/Portfolio-151915?style=for-the-badge&logo=vercel&logoColor=D8774D"/>
-  </a>
-  <a href="https://linkedin.com/in/luis-botelho">
-    <img src="https://img.shields.io/badge/LinkedIn-151915?style=for-the-badge&logo=linkedin&logoColor=D8774D"/>
-  </a>
-  <a href="mailto:luisfellypebotelho@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-151915?style=for-the-badge&logo=gmail&logoColor=D8774D"/>
-  </a>
-  <a href="https://medium.com/@luisfellypebotelho">
-    <img src="https://img.shields.io/badge/Medium-151915?style=for-the-badge&logo=medium&logoColor=D8774D"/>
-  </a>
-  <a href="https://dev.to/luisbotelho">
-    <img src="https://img.shields.io/badge/dev.to-151915?style=for-the-badge&logo=devdotto&logoColor=D8774D"/>
-  </a>
+<a href="https://luis-botelho.tech">
+<img src="https://img.shields.io/badge/Portfolio-151915?style=for-the-badge&logo=vercel&logoColor=D8774D"/>
+</a>
+<a href="https://linkedin.com/in/luis-botelho">
+<img src="https://img.shields.io/badge/LinkedIn-151915?style=for-the-badge&logo=linkedin&logoColor=D8774D"/>
+</a>
+<a href="mailto:luisfellypebotelho@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-151915?style=for-the-badge&logo=gmail&logoColor=D8774D"/>
+</a>
+<a href="https://medium.com/@luisfellypebotelho">
+<img src="https://img.shields.io/badge/Medium-151915?style=for-the-badge&logo=medium&logoColor=D8774D"/>
+</a>
+<a href="https://dev.to/luisbotelho">
+<img src="https://img.shields.io/badge/dev.to-151915?style=for-the-badge&logo=devdotto&logoColor=D8774D"/>
+</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luis-botelho&style=for-the-badge&color=D8774D&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=luis-botelho&style=for-the-badge&color=D8774D&label=PROFILE+VIEWS"/>
 </p>
 
 <br/>
@@ -36,15 +36,15 @@
 
 Building software with engineering, product thinking and business vision.
 
-I'm a Software Engineering student passionate about turning real-world problems into scalable products.
-Currently building **Caminhos de Mambucaba** (in production) and **SafeAnchor** in parallel, documenting the journey in public and continuously sharpening my engineering skills.
+I'm a Software Engineering student passionate about turning real-world problems into scalable products.  
+Currently running **Caminhos de Mambucaba** in production (used by a real institution) while exploring **Web3 Shield** and deepening system design, clean architecture and Go.
 
-🚀 Software Engineering Student<br>
-⚓ Building SafeAnchor (MVP)<br>
-🏛 Managing Caminhos de Mambucaba — live, used by a real institution<br>
-🧠 Product-minded Engineer<br>
-📚 Passionate about Clean Architecture<br>
-🌎 Based in Brazil<br>
+🚀 Software Engineering Student  
+🏛 Managing Caminhos de Mambucaba — live in production  
+⚓ SafeAnchor & LIA (paused — learning in public)  
+🧠 Product-minded Engineer  
+📚 Clean Architecture & System Design  
+🌎 Based in Angra dos Reis, Brazil  
 ☕ Learning something new every day
 
 </div>
@@ -55,13 +55,12 @@ Currently building **Caminhos de Mambucaba** (in production) and **SafeAnchor** 
 
 <div align="center">
 
-🏛 Growing Caminhos de Mambucaba in production<br>
-📦 Building SafeAnchor MVP<br>
-🏛 Rebuilding LIA on Fastify 5 + Prisma 7 + Clean Architecture<br>
-📚 Studying Software Engineering<br>
-🏗 Improving System Design<br>
-⚛ Deepening the React Ecosystem<br>
-🧠 Becoming a better Product Engineer
+🏛 Growing Caminhos de Mambucaba (territorial platform in production)  
+🛡 Exploring Web3 Shield (architecture & security)  
+📚 Studying Software Engineering + System Design  
+⚛ Deepening React Ecosystem + Go concurrency  
+🧠 Becoming a better Product Engineer  
+📖 Writing about technical decisions in public (Medium & Dev.to)
 
 </div>
 
@@ -70,19 +69,19 @@ Currently building **Caminhos de Mambucaba** (in production) and **SafeAnchor** 
 <h2 align="center">🧭 Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,go,postgres,prisma,docker,git,github,figma,linux,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,postgres,prisma,docker,git,github,figma,linux,vscode&theme=dark"/>
 </p>
 
 <br/>
 
-<h2 align="center">🌊 Projects</h2>
+<h2 align="center">🌊 Featured Projects</h2>
 
 <div align="center">
 
-| ⚓ Caminhos de Mambucaba | 🛟 SafeAnchor | 🏛 LIA |
-|:---:|:---:|:---:|
-| Territorial Development Platform — **Em produção** | Vertical SaaS for Marina Management | Local Services / Community Platform |
-| `Next.js` `Supabase` `PostgreSQL` `RLS` | `React` `NestJS` `PostgreSQL` `Prisma` | `Fastify` `Prisma` `PostgreSQL` `React` |
+| ⚓ Caminhos de Mambucaba | 🛟 SafeAnchor | 🧭 LIA (Liahona) | 🛡 Web3 Shield |
+| :------------------------------------------------: | :------------------------------------: | :-------------------------------------: | :-------------------------------: |
+| Territorial Development Platform — **Em produção** | Vertical SaaS for Maritime Fleet Mgmt | Local Services / Employability Platform | Security-focused Web3 exploration |
+| `Next.js` `React 19` `TypeScript` `PostgreSQL` | `React 19` `Express 5` `Prisma 7` `PostgreSQL` | Product vision + domain modeling | Architecture decisions in public |
 
 </div>
 
@@ -91,16 +90,16 @@ Currently building **Caminhos de Mambucaba** (in production) and **SafeAnchor** 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=luis-botelho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151915&title_color=D8774D&icon_color=7E9A75"/>
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luis-botelho&layout=compact&theme=tokyonight&hide_border=true&bg_color=151915&title_color=D8774D"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=luis-botelho&show_icons=true&theme=tokyonight&hide_border=true&bg_color=151915&title_color=D8774D&icon_color=7E9A75"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luis-botelho&layout=compact&theme=tokyonight&hide_border=true&bg_color=151915&title_color=D8774D"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=luis-botelho&theme=tokyonight&hide_border=true&background=151915&ring=D8774D&fire=D8774D"/>
+<img src="https://streak-stats.demolab.com/?user=luis-botelho&theme=tokyonight&hide_border=true&background=151915&ring=D8774D&fire=D8774D"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luis-botelho&theme=tokyo-night&bg_color=151915&color=D8774D&line=D8774D&point=F3EFE7&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=luis-botelho&theme=tokyo-night&bg_color=151915&color=D8774D&line=D8774D&point=F3EFE7&hide_border=true"/>
 </p>
 
 <br/>
@@ -109,12 +108,13 @@ Currently building **Caminhos de Mambucaba** (in production) and **SafeAnchor** 
 
 <div align="center">
 
-🎯 Land my next Software Engineer role<br>
-🎯 Ship SafeAnchor MVP<br>
-🎯 Grow Caminhos de Mambucaba's reach<br>
-🎯 100+ Contributions / Week<br>
-🎯 Read 12 Technical Books<br>
-🎯 Contribute to Open Source
+🎯 Land my next Software Engineer role  
+🎯 Keep Caminhos de Mambucaba growing  
+🎯 Ship the next iteration of SafeAnchor / LIA when ready  
+🎯 100+ Contributions / Week  
+🎯 Read 12 Technical Books  
+🎯 Contribute to Open Source  
+🎯 Keep documenting technical decisions in public
 
 </div>
 
@@ -124,7 +124,7 @@ Currently building **Caminhos de Mambucaba** (in production) and **SafeAnchor** 
 
 <div align="center">
 
-> *"We don't build features.*
+> *"We don't build features.*  
 > *We build products."*
 
 </div>
