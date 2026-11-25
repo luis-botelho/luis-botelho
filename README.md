@@ -1,14 +1,20 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151915,100:D8774D&height=180&section=header&text=LUIS%20FELLYPE&fontSize=42&fontColor=F3EFE7&fontAlignY=38&desc=Product%20Engineer%20%E2%80%A2%20Full%20Stack%20JavaScript%20Developer&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151915,100:D8774D&height=180&section=header&text=LUIS%20FELLYPE&fontSize=42&fontColor=F3EFE7&fontAlignY=38&desc=Desenvolvedor%20Full-stack%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Go&descAlignY=58&descSize=16&animation=fadeIn"/>
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=D8774D&center=true&vCenter=true&width=650&lines=Product+Engineer;Full+Stack+Developer;Building+Software+That+Solves+Real+Problems;Caminhos+de+Mambucaba+%E2%80%94+Em+Produ%C3%A7%C3%A3o;Building+in+Public"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=D8774D&center=true&vCenter=true&width=700&lines=React+%C2%B7+TypeScript+%C2%B7+Next.js;Node.js+%C2%B7+Go+%C2%B7+PostgreSQL;Escrevo+sobre+Go%2C+TDD+e+arquitetura;Caminhos+de+Mambucaba+%E2%80%94+em+produ%C3%A7%C3%A3o;Projetos+de+f%C3%A9rias+(tudo+pausado)"/>
 </p>
 
 <p align="center">
 <a href="https://luis-botelho.tech">
-<img src="https://img.shields.io/badge/Portfolio-151915?style=for-the-badge&logo=vercel&logoColor=D8774D"/>
+<img src="https://img.shields.io/badge/Portf%C3%B3lio-151915?style=for-the-badge&logo=vercel&logoColor=D8774D"/>
+</a>
+<a href="https://luis-botelho.tech/projetos">
+<img src="https://img.shields.io/badge/Projetos-151915?style=for-the-badge&logo=react&logoColor=D8774D"/>
+</a>
+<a href="https://luis-botelho.tech/#artigos">
+<img src="https://img.shields.io/badge/Artigos-151915?style=for-the-badge&logo=rss&logoColor=D8774D"/>
 </a>
 <a href="https://linkedin.com/in/luis-botelho">
 <img src="https://img.shields.io/badge/LinkedIn-151915?style=for-the-badge&logo=linkedin&logoColor=D8774D"/>
@@ -16,51 +22,51 @@
 <a href="mailto:luisfellypebotelho@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-151915?style=for-the-badge&logo=gmail&logoColor=D8774D"/>
 </a>
-<a href="https://medium.com/@luisfellypebotelho">
-<img src="https://img.shields.io/badge/Medium-151915?style=for-the-badge&logo=medium&logoColor=D8774D"/>
-</a>
-<a href="https://dev.to/luisbotelho">
-<img src="https://img.shields.io/badge/dev.to-151915?style=for-the-badge&logo=devdotto&logoColor=D8774D"/>
-</a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=luis-botelho&style=for-the-badge&color=D8774D&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=luis-botelho&style=for-the-badge&color=D8774D&label=VISITAS+NO+PERFIL"/>
 </p>
 
 <br/>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 Sobre mim</h2>
 
 <div align="center">
 
-Building software with engineering, product thinking and business vision.
-
-I'm a Software Engineering student passionate about turning real-world problems into scalable products.  
-Currently running **Caminhos de Mambucaba** in production (used by a real institution) while exploring **Web3 Shield** and deepening system design, clean architecture and Go.
-
-🚀 Software Engineering Student  
-🏛 Managing Caminhos de Mambucaba — live in production  
-⚓ SafeAnchor & LIA (paused — learning in public)  
-🧠 Product-minded Engineer  
-📚 Clean Architecture & System Design  
-🌎 Based in Angra dos Reis, Brazil  
-☕ Learning something new every day
+TypeScript no dia a dia, Go quando o problema pede concorrência, Postgres para guardar tudo.  
+Prefiro código que dá para ler depois e regra de negócio que dá para auditar.
 
 </div>
 
+```ts
+const luis = {
+  stack: ["TypeScript", "React", "Next.js", "Node.js", "Go", "PostgreSQL"],
+  curte: [
+    "arquitetura em camadas e transação explícita",
+    "Postgres com RLS no Supabase",
+    "regras de negócio que dá para auditar",
+    "interface que funciona só com teclado",
+    "Sass ou CSS puro",
+  ],
+  nãoCurte: ["Tailwind (mas o Caminhos usa, e a vida segue)"],
+  emProdução: "Caminhos de Mambucaba",
+  escrevoSobre: ["Go", "TDD", "decisões de arquitetura"],
+  status: "férias de projetos 🏖",
+};
+```
+
+<p align="center">
+👉 <b>Cases completos, projetos e artigos estão no <a href="https://luis-botelho.tech">luis-botelho.tech</a></b>
+</p>
+
 <br/>
 
-<h2 align="center">🚀 Current Focus</h2>
+<h2 align="center">🏖 Agora</h2>
 
 <div align="center">
 
-🏛 Growing Caminhos de Mambucaba (territorial platform in production)  
-🛡 Exploring Web3 Shield (architecture & security)  
-📚 Studying Software Engineering + System Design  
-⚛ Deepening React Ecosystem + Go concurrency  
-🧠 Becoming a better Product Engineer  
-📖 Writing about technical decisions in public (Medium & Dev.to)
+**Férias de projetos.** Todos os repositórios estão pausados e estáveis, sem desenvolvimento ativo por enquanto. 😎
 
 </div>
 
@@ -69,21 +75,34 @@ Currently running **Caminhos de Mambucaba** in production (used by a real instit
 <h2 align="center">🧭 Stack</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,postgres,prisma,docker,git,github,figma,linux,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,html,css,sass,postgres,mysql,prisma,supabase,docker,git,github,vercel&theme=dark"/>
 </p>
-
-<br/>
-
-<h2 align="center">🌊 Featured Projects</h2>
 
 <div align="center">
 
-| ⚓ Caminhos de Mambucaba | 🛟 SafeAnchor | 🧭 LIA (Liahona) | 🛡 Web3 Shield |
-| :------------------------------------------------: | :------------------------------------: | :-------------------------------------: | :-------------------------------: |
-| Territorial Development Platform — **Em produção** | Vertical SaaS for Maritime Fleet Mgmt | Local Services / Employability Platform | Security-focused Web3 exploration |
-| `Next.js` `React 19` `TypeScript` `PostgreSQL` | `React 19` `Express 5` `Prisma 7` `PostgreSQL` | Product vision + domain modeling | Architecture decisions in public |
+Também uso **Fastify, Express, Vitest, Leaflet, n8n** e APIs REST.
 
 </div>
+
+<br/>
+
+<h2 align="center">🌊 Projetos em destaque</h2>
+
+<div align="center">
+
+| ⚓ Caminhos de Mambucaba | 🍽 Goomer Menu API | 🗂 Mini Kanban Veritas | 🛟 SafeAnchor | 🧭 Itera |
+| :---: | :---: | :---: | :---: | :---: |
+| Plataforma territorial. **Em produção** | API REST de cardápio com promoções por horário. MVP concluído | Kanban full-stack. MVP concluído | Gestão de embarcações e manutenções. MVP concluído, demo publicada | Companion web de MMORPG com regras auditáveis. MVP concluído |
+| `Next.js 16` `React 19` `TypeScript` `Supabase` | `TypeScript` `Fastify` `PostgreSQL 16` `Docker` | `Go` `Chi` `React` `TypeScript` `Docker` | `React 19` `Vite` `Node.js` `Express 5` | `React 19` `TypeScript` `Vite` `Sass` |
+| [case](https://luis-botelho.tech/projetos/caminhos-de-mambucaba) · [site](https://caminhosdemambucaba.live) · [código](https://github.com/luis-botelho/instituto-platform) | [case](https://luis-botelho.tech/projetos/goomer-menu-api) · [código](https://github.com/luis-botelho/goomer-backend) | [case](https://luis-botelho.tech/projetos/mini-kanban-veritas) · [código](https://github.com/luis-botelho/desafio-fullstack-veritas) | [case](https://luis-botelho.tech/projetos/safeanchor) · [código](https://github.com/luis-botelho/safeanchor-monorepo) | [case](https://luis-botelho.tech/projetos/itera) · [código](https://github.com/luis-botelho/itera) |
+
+</div>
+
+<p align="center">
+<sub><a href="https://luis-botelho.tech/projetos">Ver todos os projetos no portfólio</a> · Estudos: <a href="https://github.com/luis-botelho/liahona">Liahona (LIA)</a> e LIA Operating System, ambos pausados.</sub>
+</p>
+
+<br/>
 
 <br/>
 
@@ -104,23 +123,7 @@ Currently running **Caminhos de Mambucaba** in production (used by a real instit
 
 <br/>
 
-<h2 align="center">🎯 Roadmap</h2>
-
-<div align="center">
-
-🎯 Land my next Software Engineer role  
-🎯 Keep Caminhos de Mambucaba growing  
-🎯 Ship the next iteration of SafeAnchor / LIA when ready  
-🎯 100+ Contributions / Week  
-🎯 Read 12 Technical Books  
-🎯 Contribute to Open Source  
-🎯 Keep documenting technical decisions in public
-
-</div>
-
-<br/>
-
-<h2 align="center">🧠 Philosophy</h2>
+<h2 align="center">🧠 Filosofia</h2>
 
 <div align="center">
 
@@ -133,9 +136,12 @@ Currently running **Caminhos de Mambucaba** in production (used by a real instit
 
 <div align="center">
 
-### Thanks for visiting! 👋
+### Valeu pela visita! 👋
 
-If you like building products, software architecture or discussing technology, let's connect.
+Se você curte produto, arquitetura de software ou só conversar sobre tecnologia, bora conectar.  
+Tudo o que eu fiz está em **[luis-botelho.tech](https://luis-botelho.tech)**.
+
+<sub>English: Full-stack developer from Angra dos Reis, Brazil. TypeScript, React, Next.js, Node.js, Go and PostgreSQL. One production territorial platform, four finished MVPs, all projects currently paused. Portfolio at <a href="https://luis-botelho.tech">luis-botelho.tech</a>.</sub>
 
 </div>
 
